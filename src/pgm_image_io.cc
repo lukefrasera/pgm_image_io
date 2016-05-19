@@ -88,6 +88,7 @@ Quisque dapibus, massa eu finibus mollis, lorem risus dapibus est, at imperdiet 
 Se vel gravida felis, eget mattis ligula. Phasellus tempus leo est. Morbi fermentum porttitor lacus, accumsan aliquet tortor volutpat vitae. Duis mattis enim vitae ex iaculis, non cursus diam tincidunt. Sed nisi risus, iaculis in orci in, consectetur consequat purus. In mattis nisl leo, vel accumsan ipsum eleifend in. Aliquam a eleifend nisi.\
 Maecenas consectetur, massa ac dignissim dapibus, velit neque viverra neque, ac fermentum lacus libero nec elit. Donec at dolor mi. Duis aliquam feugiat iaculis. Aliquam convallis, leo a congue commodo, ex massa pretium justo, et luctus libero ex vitae nunc. Etiam vestibulum volutpat congue. Suspendisse ultricies neque nec ultricies dictum. Curabitur tempus eu mi quis rhoncus. Sed id feugiat augue, mattis tincidunt eros. Etiam velit nunc, ornare nec ultrices eu, elementum id augue. Nunc id scelerisque enim. Curabitur tortor nulla, euismod non nisl in, mollis ultricies lorem. Nullam tincidunt odio velit, eget bibendum risus blandit placerat. Duis at dolor et quam dignissim feugiat sed non nisl.\
 Phasellus iaculis pulvinar dui. Suspendisse potenti. Etiam egestas felis eu nisl accumsan ultricies. Integer luctus ullamcorper erat, vitae tincidunt massa congue id. Nulla ac tortor eu nulla hendrerit tincidunt. Quisque in tellus vitae massa tempus pharetra id a nullam. ";
+  
   int sizeOfMessage = sizeof(message);
 
   for(int i = 0; i < sizeOfMessage; i++)
