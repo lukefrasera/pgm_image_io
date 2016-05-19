@@ -31,7 +31,7 @@ int main(int argc, char*argv[]){
 		std::cout << "Error opening" <<std::endl;
 	};
   
-	image_in.getline(Type_Line1, 2,'\n');vi~/.
+	image_in.getline(Type_Line1, 2,'\n');
 	if((Type_Line1[0]!='P') || Type_Line1[1]!='5'){
 		std::cout << "Image is not in binary PGM 'P5' format." << std::endl;
 		exit(1);
